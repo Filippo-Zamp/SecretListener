@@ -35,6 +35,6 @@
 
 ```bash
 flutter pub get
-flutter run
+flutter build apk --release
 ```
 > ⚠️ **Nota**: Questa app è a scopo educativo e personale. Non violare la privacy altrui. Utilizza l'app responsabilmente e legalmente secondo le leggi del tuo paese.
