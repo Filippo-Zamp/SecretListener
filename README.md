@@ -20,7 +20,7 @@
 3. Premi il pulsante Play per ascoltarlo.
 4. (Facoltativo) Cambia la velocità di riproduzione con il pulsante `x1.0` / `x2.0`.
 
-> ⚠️ **Nota**: L'audio deve essere già presente sul dispositivo. L'app non accede direttamente ai file di WhatsApp, ma puoi usare un file manager per copiarli da:
+> ⚠️ **Nota**: L'audio deve essere già presente sul dispositivo. L'app non accede direttamente ai file di WhatsApp, ma puoi usare un file manager per copiarli da: /WhatsApp/Media/WhatsApp Voice Notes/
 
 ## 📦 Dipendenze
 
@@ -36,7 +36,5 @@
 ```bash
 flutter pub get
 flutter run
-
-
-Questa app è a scopo educativo e personale. Non violare la privacy altrui. Utilizza l'app responsabilmente e legalmente secondo le leggi del tuo paese.
-
+```
+> ⚠️ **Nota**: Questa app è a scopo educativo e personale. Non violare la privacy altrui. Utilizza l'app responsabilmente e legalmente secondo le leggi del tuo paese.
